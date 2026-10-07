@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shivapooja Patil</h1>
 
 <h3 align="center">
-  💻 Java Backend Developer | Spring Boot | REST APIs | SQL
+  💻 Java Developer | Spring Boot | REST APIs | SQL
 </h3>
 
 <p align="center">
