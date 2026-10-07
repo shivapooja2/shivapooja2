@@ -90,9 +90,6 @@
 - Created relational database schemas with constraints and entity relationships.
 - Implemented JUnit tests for transaction processing and edge cases.
 
-🔗 **Repository:**  
-[View Project →](https://github.com/shivapooja2)
-
 ---
 
 ### 🔐 ABAC for MQTT using XACML Policies
@@ -104,9 +101,6 @@
 - Defined rules using user, device and topic attributes.
 - Integrated policy decision logic with the MQTT broker to authorize publish and subscribe requests.
 
-🔗 **Repository:**  
-[View Project →](https://github.com/shivapooja2)
-
 ---
 
 ### 🧑‍💻 Online Coding Assessment Platform
@@ -117,10 +111,7 @@
 - Developed REST APIs for question management, assessments, submissions and scoring.
 - Designed relational entities connecting candidates, questions, assessments and results.
 - Added JUnit tests for assessment workflows and scoring logic.
-
-🔗 **Repository:**  
-[View Project →](https://github.com/shivapooja2)
-
+  
 ---
 
 ## 💼 Experience
