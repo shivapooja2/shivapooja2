@@ -1,4 +1,4 @@
-## Hi,I'm Shivapooja Patil 👋
+##                            Hi 👋,I'm Shivapooja Patil 
 👩‍💻 About Me
 💻 Java Software Developer with a background in Electronics and Telecommunication Engineering.
 
@@ -17,6 +17,7 @@
 🛠️ Tech Skills
 💻 Programming Languages
 Java
+Python
 SQL
 JavaScript
 🚀 Development
