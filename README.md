@@ -93,6 +93,7 @@
 -  Modelled a relational SQL schema with constraints and relationships to enforce data consistency across accounts and
    transactions.
 -  Wrote JUnit tests covering transaction processing and key edge-case validation scenarios.
+-  [![GitHub Repo](https://img.shields.io/badge/GitHub-Payment--Transaction--Management--System-black?logo=github)](https://github.com/shivapooja2/Payment-Transaction-Management-System)
 
 ---
 
