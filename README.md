@@ -85,10 +85,14 @@
 
 **Java • Spring Boot • SQL • JUnit**
 
-- Developed a backend system for managing accounts, payments and transaction history.
-- Designed REST APIs with input validation and structured exception handling.
-- Created relational database schemas with constraints and entity relationships.
-- Implemented JUnit tests for transaction processing and edge cases.
+-  Developed the core payment system for an e-commerce client using Java and Spring Boot on a microservices architecture, with
+   Stripe and Razorpay payment gateway integration.
+-  Built for reliable, scalable and secure payment processing, managing accounts, payments and transaction history across
+   multiple linked entities.
+-  Designed REST APIs with input validation and structured exception handling to prevent inconsistent transaction states.
+-  Modelled a relational SQL schema with constraints and relationships to enforce data consistency across accounts and
+   transactions.
+-  Wrote JUnit tests covering transaction processing and key edge-case validation scenarios.
 
 ---
 
@@ -118,7 +122,7 @@
 
 ### Web Developer Intern — Hackveda Private Limited
 
-**Jan 2025 – Jun 2025**
+**Jan 2025 – July 2025**
 
 - Built web features, fixed bugs and delivered product enhancements in an agile team.
 - Implemented authentication and authorization workflows across multiple user roles.
